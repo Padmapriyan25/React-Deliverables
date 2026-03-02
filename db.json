@@ -1,0 +1,42 @@
+{
+  "tasks": [
+    {
+      "id": "9cdd",
+      "text": "React Week 3 - Deliverables"
+    },
+    {
+      "id": "a5b3",
+      "text": "React Week 4 - Deliverables"
+    },
+    {
+      "id": "868f",
+      "text": "Implement API"
+    },
+    {
+      "id": "a618",
+      "text": "Use JSON storage"
+    }
+  ],
+  "formSubmissions": [
+    {
+      "id": "97a3",
+      "firstName": "Padmapriyan",
+      "lastName": "N",
+      "email": "n.p.padmapriyan@gmail.com",
+      "password": "9876543",
+      "phone": "09445527734",
+      "website": "http://hello.com",
+      "age": 23,
+      "experience": 1,
+      "birthDate": "2026-03-26",
+      "gender": "Male",
+      "hobbies": [
+        "Sports"
+      ],
+      "country": "India",
+      "bio": "hi",
+      "favoriteColor": "#000000"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
